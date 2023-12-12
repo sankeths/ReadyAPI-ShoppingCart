@@ -1555,7 +1555,7 @@
       <con:name>ShoppingCart</con:name>
       <con:type>Basic</con:type>
       <con:username>sanketh.shanbhag@smartbear.com</con:username>
-      <con:password>India@123</con:password>
+      <con:password></con:password>
     </con:basicAuthEntry>
   </con:authRepository>
   <con:loadUiTest name="Load Test 1" id="c96da169-fcb3-4a3d-a159-7dae4017a4a3">
